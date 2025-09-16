@@ -1,0 +1,176 @@
+id,name,details,gender,category
+Men:SHIRTS:0,PHOTO PRINT SHIRT,Relaxed-fit shirt with a collar and long sleeves with buttoned cuffs. Contrast print on the front. Button-up front.,Men,SHIRTS
+Men:SHIRTS:2,CONTRAST PRINT SHIRT,Relaxed-fit collared shirt with long sleeves and buttoned cuffs. Button-up front.,Men,SHIRTS
+Men:SHIRTS:4,DENIM SHIRT,Collared relaxed fit shirt made of denim. Long sleeves with buttoned cuffs. Chest patch pockets. Faded effect. Button-up front.,Men,SHIRTS
+Men:SHIRTS:5,CREASED-EFFECT SHIRT,Relaxed fit shirt made of semi-sheer fabric. Camp collar and short sleeves. Split hem. Button-up front.,Men,SHIRTS
+Men:SHIRTS:6,FLORAL PRINT SHIRT,Regular-fit shirt made of satin fabric. Spread collar and short sleeves. Side vents at the hem. Button-up front.,Men,SHIRTS
+Men:SHIRTS:7,LEAF PRINT SHIRT,Regular fit shirt in a satiny fabric. Camp collar and short sleeves. Split hem. Button-up front.,Men,SHIRTS
+Men:SHIRTS:8,FLORAL PRINT SHIRT,Relaxed-fit shirt. Lapel collar and short sleeves. Button-up front.,Men,SHIRTS
+Men:SHIRTS:9,FLORAL PRINT STRETCH SHIRT,Regular fit shirt made of highly stretchy crease-resistant fabric. Camp collar and short sleeves. Split hem. Button-up front.,Men,SHIRTS
+Men:SHIRTS:10,BANDANA PRINT SHIRT,Relaxed fit shirt in cotton fabric. Camp collar and short sleeves. Split hem. Button-up front.,Men,SHIRTS
+Men:SHIRTS:11,PALM TREE PRINT SHIRT,Relaxed fit shirt. Camp collar and short sleeves. Button-up front.,Men,SHIRTS
+Men:SHIRTS:15,ABSTRACT PRINT TEXTURED SHIRT,Relaxed fit short sleeve shirt with a camp collar. Chest patch pocket. Button-up front.,Men,SHIRTS
+Men:SHIRTS:16,LEAF PRINT SHIRT,Relaxed fit shirt with a camp collar and short sleeves. Split hem and a button-up front.,Men,SHIRTS
+Men:SHIRTS:17,VISCOSE - LINEN SHIRT,"Relaxed fit shirt made of a viscose and cotton blend. Featuring a camp collar, short sleeves, a split hem and a button-up front.",Men,SHIRTS
+Men:SHIRTS:18,ABSTRACT PRINT SHIRT,Relaxed fit shirt made of a viscose and linen blend. Camp collar and short sleeves. Chest flap pocket. Button-up front.,Men,SHIRTS
+Men:SHIRTS:21,VISCOSE - LINEN SHIRT,Relaxed fit bowling shirt made of a linen and viscose blend. Featuring short sleeves and a button-up front.,Men,SHIRTS
+Men:SHIRTS:25,ABSTRACT PRINT SHIRT,Relaxed fit shirt made of a modal blend fabric. Camp collar and short sleeves. Chest patch pocket. Button-up front.,Men,SHIRTS
+Men:SHIRTS:26,GEOMETRIC JACQUARD KNIT SHIRT,Relaxed fit knit shirt. Camp collar and short sleeves. Button-up front.,Men,SHIRTS
+Men:SHIRTS:28,ABSTRACT PRINT SHIRT,Relaxed fit shirt made of a viscose blend fabric. Camp collar and short sleeves. Chest patch pocket. Button-up front.,Men,SHIRTS
+Men:SHIRTS:29,GEOMETRIC PRINT SHIRT,Relaxed fit shirt made of a viscose fabric. Camp collar and short sleeves. Button-up front.,Men,SHIRTS
+Men:SHIRTS:30,ABSTRACT PRINT SHIRT,Relaxed fit shirt made of a viscose blend fabric. Camp collar. Short sleeves. Button-up front.,Men,SHIRTS
+Men:SHIRTS:32,SHIRT,"Relaxed fit shirt made of flowing fabric with a modal blend. Featuring a camp collar, long sleeves and buttoned cuffs. Side vents at the hem. Button fastening at the front.",Men,SHIRTS
+Men:SHIRTS:33,VISCOSE/LINEN BLEND SHIRT,"Relaxed fit shirt in a linen and viscose blend. Featuring a lapel collar, long sleeves with buttoned cuffs and a button-up front.",Men,SHIRTS
+Men:SHIRTS:37,VISCOSE/LINEN BLEND SHIRT,Relaxed-fit shirt made of a linen and viscose blend. Camp collar and short sleeves. Back patch pocket. Side vents at the hem. Button-up front.,Men,SHIRTS
+Men:SHIRTS:38,COTTON SHIRT,Relaxed fit collared shirt made of a cotton fabric. Short sleeves. Side vents at the hem. Button-up front.,Men,SHIRTS
+Men:SHIRTS:41,TEXTURED LINEN - COTTON SHIRT,"Relaxed fit shirt made of a linen and cotton blend. Featuring a lapel collar, short sleeves, a chest patch pocket, an asymmetric hem with side vents and a button-up front.",Men,SHIRTS
+Men:SHIRTS:42,100% LINEN SHIRT,Regular-fit shirt made of lightweight linen fabric. Spread collar and long sleeves with buttoned cuffs. Button-up front.,Men,SHIRTS
+Men:SHIRTS:46,TEXTURED SHIRT,Relaxed fit shirt with a camp collar and short sleeves. Ribbed trim at the hem and a button-up front.,Men,SHIRTS
+Men:SHIRTS:53,POINTELLE TEXTURED SHIRT,Relaxed fit shirt made of open textured fabric. Camp collar and short sleeves. Button-up front.,Men,SHIRTS
+Men:SHIRTS:55,TEXTURED TWILL SHIRT,Regular fit shirt with a button-down lapel collar and long sleeves with buttoned cuffs. Button-up front.,Men,SHIRTS
+Men:SHIRTS:56,TEXTURED TWILL SHIRT,Regular fit spread collar shirt featuring long sleeves with buttoned cuffs. Button-up front.,Men,SHIRTS
+Men:SHIRTS:58,TEXTURED TWILL SHIRT,Regular-fit shirt with an open spread collar and long sleeves with buttoned cuffs. Button-up front.,Men,SHIRTS
+Men:SHIRTS:64,STRIPED FLOWING SHIRT,Relaxed fit shirt in a modal blend. Spread collar and long sleeves with buttoned cuffs. Button-up front.,Men,SHIRTS
+Men:SHIRTS:65,TEXTURED SHIRT,Regular fit collared shirt made of textured fabric. Long sleeves with buttoned cuffs. Hem with side vents. Button-up front.,Men,SHIRTS
+Men:SHIRTS:69,LYOCELL - LINEN SHIRT,Relaxed fit shirt. Spread collar and short sleeves. Chest patch pockets with flap. Button-up front hidden by a placket.,Men,SHIRTS
+Men:SHIRTS:70,LYOCELL SHIRT WITH POCKETS,Relaxed-fit shirt made of lyocell fabric. Spread collar and short sleeves. Flap patch pockets on the chest. Button-up front.,Men,SHIRTS
+Men:SHIRTS:74,UTILITY SHIRT WITH POCKETS,Relaxed fit shirt made of cotton. Lapel collar and short sleeves. Patch pockets with flaps on the front. Asymmetric hem with side vents. Button-up front.,Men,SHIRTS
+Men:SHIRTS:78,LYOCELL SHIRT,Regular fit shirt made of lyocell. Lapel collar and long sleeves with buttoned cuffs. Chest patch pocket. Button-up front.,Men,SHIRTS
+Men:SHIRTS:80,PLAID SHIRT WITH POCKET,Relaxed fit collared shirt with long sleeves and buttoned cuffs. Chest patch pocket. Side vents at the hem. Button-up front.,Men,SHIRTS
+Men:SHIRTS:81,STRIPED LYOCELL-LINEN SHIRT,Relaxed fit collared shirt made of a linen and lyocell blend. Front button fastening. Long sleeves with adjustable buttoned cuffs. Adjustable hem with a front drawstring.,Men,SHIRTS
+Men:SHIRTS:82,STRIPED ELASTIC SHIRT,Slim fit shirt made of a fabric that minimises the need for ironing after washing. Spread collar and long sleeves with buttoned cuffs. Button-up front.,Men,SHIRTS
+Men:SHIRTS:83,ELASTIC SHIRT WITH STRIPED PRINT,Slim-fit shirt made of a high-stretch fabric which is resistant to wrinkling. Spread collar and long sleeves with buttoned cuffs. Button-up front.,Men,SHIRTS
+Men:SHIRTS:85,STRIPED TEXTURED SHIRT,Regular fit shirt made of a cotton fabric. Spread collar and long sleeves with buttoned cuffs. Button-up front.,Men,SHIRTS
+Men:SHIRTS:91,GEOMETRIC CROCHET SHIRT,Relaxed fit shirt made of open textured fabric. Lapel collar and short sleeves. Button-up front.,Men,SHIRTS
+Men:SHIRTS:96,TEXTURED CROCHET SHIRT,Collared shirt made of open textured fabric. Front opening and short sleeves. Button-up front.,Men,SHIRTS
+Men:SHIRTS:108,TEXTURED SHIRT,Shirt made of textured easy-care fabric that minimises the need for ironing.Regular fit spread collar shirt featuring long sleeves with buttoned cuffs. Button-up front.,Men,SHIRTS
+Men:SHIRTS:109,SHIRT WITH FRENCH CUFFS,Regular-fit shirt with a spread collar and long sleeves with French cuffs with cufflinks. Button-up front.,Men,SHIRTS
+Men:SHIRTS:111,TEXTURED LYOCELL BLEND SHIRT,Regular-fit shirt in a lyocell blend. Spread collar and long sleeves with buttoned cuffs. Button-up front.,Men,SHIRTS
+Men:SHIRTS:114,SHIRT WITH ADJUSTABLE HEM,Boxy-fit shirt made of a cotton blend. Spread collar and short sleeves. Chest patch pocket. Adjustable hem with elastic on the sides. Button-up front.,Men,SHIRTS
+Men:SHIRTS:118,CROPPED FAUX LEATHER SHIRT,Relaxed-fit faux leather shirt. Collar and short sleeves. Chest patch pocket. Cropped length. Fastens down the front with snap buttons.,Men,SHIRTS
+Men:SHIRTS:122,STRIPED SHIRT,Relaxed fit collared shirt. Short sleeves. Split hem. Button-up front.,Men,SHIRTS
+Men:SHIRTS:123,STRIPED SHIRT,"Relaxed fit shirt made of a cotton blend. Featuring a camp collar, short sleeves and a button-up front.",Men,SHIRTS
+Men:SHIRTS:124,STRIPED TEXTURED SHIRT,Relaxed fit shirt made of lightweight fabric. Lapel collar and short sleeves. Chest patch pockets. Asymmetric hem with side vents. Button-up front.,Men,SHIRTS
+Men:SHIRTS:126,OXFORD SHIRT,Regular fit shirt made of cotton. Button-down collar and long sleeves with buttoned cuffs. Chest patch pocket. Button-up front.,Men,SHIRTS
+Men:SHIRTS:134,SHIRT WITH CONTRAST TOPSTITCHING,Collared relaxed-fit shirt. Long sleeves with buttoned cuffs. Chest patch pocket. Hem with side vents. Contrast topstitching all over the garment. Faded effect. Button-up front.,Men,SHIRTS
+Men:SHIRTS:135,SHIRT WITH CONTRAST TOPSTITCHING,Collared relaxed fit shirt. Long sleeves with buttoned cuffs. Chest patch pocket. Contrast topstitching details all over the garment. Button-up front.,Men,SHIRTS
+Men:SHIRTS:136,TOPSTITCHED DENIM SHIRT,Boxy fit collared shirt made of compact denim fabric. Short sleeves. Chest patch pocket. Contrast topstitching all over the garment. Button-up front.,Men,SHIRTS
+Men:SHIRTS:137,DENIM SHIRT,Faded relaxed fit collared shirt made of denim. Featuring long sleeves and a chest patch pocket. Button-up front.,Men,SHIRTS
+Men:SHIRTS:138,DENIM SHIRT,Regular fit collared shirt made of denim fabric. Long sleeves with buttoned cuffs. Chest patch pockets with flaps. Faded effect. Front snap-button fastening.,Men,SHIRTS
+Men:SHIRTS:139,DENIM OVERDYE SHIRT,Faded relaxed fit collared shirt featuring long sleeves with buttoned cuffs. Patch pocket on the chest and a button-up front.,Men,SHIRTS
+Men:SHIRTS:140,RELAXED FIT DENIM SHIRT,Relaxed-fit collared shirt with long sleeves and buttoned cuffs. Faded effect. Button-up front.,Men,SHIRTS
+Men:SHIRTS:142,ABSTRACT PRINT DENIM SHIRT,Relaxed fit sleeveless denim collared shirt. Patch pockets with flaps on the chest. Faded effect. Button-up front.,Men,SHIRTS
+Men:SHIRTS:143,DENIM SHIRT WITH POCKET,Faded relaxed fit collared shirt made of lightweight denim. Featuring long sleeves and a chest patch pocket. Button-up front.,Men,SHIRTS
+Men:SHIRTS:145,STRIPED SHIRT,Relaxed-fit shirt made of a cotton and lyocell blend. Camp collar and short sleeves. Button-up front.,Men,SHIRTS
+Men:SHIRTS:147,COLOURED DENIM OVERSHIRT,Relaxed fit collared overshirt. Long sleeves with buttoned cuffs. Chest patch pockets. Button-up front.,Men,SHIRTS
+Men:SHIRTS:152,BANDANA PRINT SHIRT,Relaxed fit sleeveless shirt made of technical fabric. Camp collar and button-up front.,Men,SHIRTS
+Men:SHIRTS:153,ABSTRACT PRINT TEXTURED SHIRT,Regular-fit collared shirt with short sleeves. Button-up front.,Men,SHIRTS
+Men:SHIRTS:154,PIXELATED PRINTED SHIRT,Relaxed fit shirt made of viscose fabric. Spread collar and short sleeves. Chest patch pocket. Button-up front.,Men,SHIRTS
+Men:SHIRTS:155,ABSTRACT PRINT SHIRT,Boxy fit shirt in cotton fabric. Camp collar and short sleeves. Split hem. Button-up front.,Men,SHIRTS
+Men:SHIRTS:156,TIE-DYE PRINT SHIRT,Relaxed fit shirt. Camp collar and short sleeves. Patch pocket on the chest. Hem with side vents. Button-up front.,Men,SHIRTS
+Men:SHIRTS:158,STRETCHY POPLIN SHIRT,"Shirt made of a stretchy cotton fabric. Featuring a spread collar, long sleeves with buttoned cuffs and a button-up front.",Men,SHIRTS
+Men:SHIRTS:163,ACTIVE SHIRT,Slim-fit shirt with a spread collar that buttons on the inside. Long sleeves with buttoned cuffs. Button-up front.-Breathable-Anti-odour treatment.-Wrinkle resistant.,Men,SHIRTS
+Men:SHIRTS:167,SEERSUCKER SHIRT,Relaxed-fit shirt with a camp collar and a button-up front. Featuring a chest patch pocket and side vents at the hem.,Men,SHIRTS
+Men:SHIRTS:168,SEERSUCKER SHIRT WITH CONTRAST TOPSTITCHING,Relaxed fit shirt. Spread collar and short sleeves. Chest patch pocket. Contrast topstitching all over the garment. Button-up front.,Men,SHIRTS
+Men:SHIRTS:170,SEERSUCKER SHIRT WITH POCKET,Relaxed-fit shirt. Spread collar and short sleeves. Chest patch pocket. Button-up front.,Men,SHIRTS
+Men:SHIRTS:174,STRIPED SEERSUCKER SHIRT,Regular-fit shirt with a collar and long sleeves with buttoned cuffs. Chest patch pocket. Adjustable hem with ties at the front. Button-up front.,Men,SHIRTS
+Men:SHIRTS:176,TEXTURED SHIRT WITH PRINT,Relaxed fit shirt with a spread collar. Short sleeves and a button-up front.,Men,SHIRTS
+Men:SHIRTS:184,GEOMETRIC JACQUARD SHIRT,Shirt with a camp collar and short sleeves. Ribbed trims. Button-up front.,Men,SHIRTS
+Men:SHIRTS:185,GEOMETRIC JACQUARD SHIRT,Relaxed-fit shirt made of a viscose and cotton blend. Camp collar and short sleeves. Hem with side vents. Button-up front.,Men,SHIRTS
+Men:SHIRTS:188,COMFORT OVERSHIRT WITH POCKETS,Collared overshirt made of a stretchy fabric. Long sleeves with snap-button cuffs. Chest patch pockets. Front snap-button fastening.,Men,SHIRTS
+Men:SHIRTS:192,LINEN - COTTON EMBROIDERED SHIRT,"Relaxed fit shirt made of a linen and cotton blend. Featuring a camp collar, short sleeves, a split hem and a button-up front.",Men,SHIRTS
+Men:SHIRTS:194,LINEN - COTTON EMBROIDERED SHIRT,Relaxed-fit shirt made of a linen and cotton blend fabric. Featuring a camp collar and short sleeves. Contrast embroidered details all over the garment. Button-up front.,Men,SHIRTS
+Men:SHIRTS:200,EASY CARE TEXTURED SHIRT,Shirt made of fabric with easy care and everyday maintenance texture.Slim fit spread collar shirt featuring long sleeves with buttoned cuffs. Button-up front.,Men,SHIRTS
+Men:SHIRTS:217,© HIROSHI NAGAI PRINT SHIRT,Relaxed fit shirt made of a satiny fabric. Camp collar and short sleeves. © Hiroshi Nagai graphic prints all over the garment. Side vents at the hem. Button-up front.,Men,SHIRTS
+Men:SHIRTS:218,CONTRAST PRINT SHIRT,Relaxed-fit shirt made of a satiny fabric. Camp collar and short sleeves. Contrast print on the front and back. Button-up front.,Men,SHIRTS
+Men:SHIRTS:219,CITY PRINT SHIRT,Relaxed fit shirt made of a satiny fabric. Camp collar and short sleeves. Contrast prints all over the garment. Side vents at the hem. Button-up front.,Men,SHIRTS
+Men:SHIRTS:222,STRIPE PRINT SHIRT,Relaxed fit shirt made of a satiny fabric. Camp collar and short sleeves. Trims with contrast stripes. Button-up front.,Men,SHIRTS
+Men:SHIRTS:226,COTTON - LINEN SHIRT,Relaxed fit collared shirt made of a linen and cotton blend fabric. Short sleeves. Chest patch pocket. Button-up front.,Men,SHIRTS
+Men:SHIRTS:234,COTTON SHIRT,Regular fit shirt made of lightweight cotton. Button-down collar and long sleeves with buttoned cuffs. Button-up front.,Men,SHIRTS
+Men:SHIRTS:240,FAUX LEATHER OVERSHIRT,"Boxy fit collared overshirt made of faux leather. Featuring short sleeves, a chest patch pockets, contrast topstitching all over the garment and a button-up front.",Men,SHIRTS
+Men:SHIRTS:241,OVERSHIRT WITH CONTRAST TOPSTITCHING,Collared relaxed fit overshirt. Long sleeves with buttoned cuffs. Chest patch pockets. Contrast topstitching all over the garment. Button-up front.,Men,SHIRTS
+Men:SHIRTS:243,SHIRT WITH CONTRASTING TOPSTITCHING,Short sleeve relaxed fit shirt with a spread collar. Chest patch pocket. Contrast topstitching all over the garment. Button-up front.,Men,SHIRTS
+Men:SHIRTS:245,ABSTRACT JACQUARD SHIRT,Relaxed fit shirt made of compact fabric. Camp collar and short sleeves. Chest patch pocket. Side vents at the hem. Button-up front.,Men,SHIRTS
+Men:SHIRTS:247,PALM TREE PRINT SHIRT,Relaxed fit shirt made of a fabric with geometric embroidery and print. Camp collar and short sleeves. Button-up front.,Men,SHIRTS
+Men:SHIRTS:250,FLORAL PRINT SHIRT,Regular fit shirt made of a lightweight creased effect fabric. Camp collar and short sleeves. Split hem. Button-up front.,Men,SHIRTS
+Men:SHIRTS:251,FLORAL PRINT SHIRT,"Relaxed fit shirt with a camp collar, short sleeves and a button-up front.",Men,SHIRTS
+Men:SHIRTS:254,CREASED-EFFECT SHIRT,Relaxed fit shirt made of creased-effect cotton. Stand-up collar and long sleeves with buttoned cuffs. Button-up front.,Men,SHIRTS
+Men:SHIRTS:259,COTTON - LINEN SHIRT,Relaxed fit shirt made of a linen blend. Stand-up collar and long sleeves with buttoned cuffs. Button-up front.,Men,SHIRTS
+Men:SHIRTS:264,LYOCELL SHIRT WITH A STAND-UP COLLAR,Regular-fit shirt with a tab collar and long sleeves with buttoned cuffs. Button-up front.,Men,SHIRTS
+Men:SHIRTS:266,SHIRT WITH CONTRAST COLLAR,"Relaxed fit shirt made of a linen and cotton blend. Featuring a contrast stand-up collar, long sleeves with inner strap detail and a button-up front.",Men,SHIRTS
+Men:SHIRTS:267,STAND-UP COLLAR SHIRT,"Regular fit shirt featuring a stand-up collar, a button-up front and long sleeves with buttoned cuffs.",Men,SHIRTS
+Men:SHIRTS:274,COTTON - VISCOSE SHIRT,Relaxed fit shirt made of a cotton and viscose blend. Stand-up collar and long sleeves with buttoned cuffs. Button-up front.,Men,SHIRTS
+Men:SHIRTS:278,FLORAL PRINT SHIRT,Relaxed fit shirt. Camp collar and short sleeves. Contrast prints on the back. Hip patch pocket. Button-up front.,Men,SHIRTS
+Men:SHIRTS:279,SHIRT WITH CONTRAST EMBROIDERY,Relaxed-fit shirt made of cotton. Camp collar and short sleeves. Embroidery and contrast print on the front and back. Button-up front.,Men,SHIRTS
+Men:SHIRTS:281,SLOGAN PRINT SHIRT,"Relaxed-fit shirt made of cotton. Camp collar and short sleeves. Contrast prints on the front and back. Button-up front.The garment is unique thanks to its special washing process. For this reason, it may differ in colour from that of the photo.",Men,SHIRTS
+Men:SHIRTS:283,TEXTURED CROCHET SHIRT,Regular-fit shirt made of open textured fabric. Camp collar and short sleeves. Button-up front.,Men,SHIRTS
+Men:SHIRTS:284,CROCHET POCKET SHIRT,Relaxed-fit shirt made of a cotton and viscose blend. Spread collar and short sleeves. Matching crochet patch pocket. Button-up front.,Men,SHIRTS
+Men:SHIRTS:286,EMBROIDERED SHIRT,Relaxed-fit shirt made of cotton. Camp collar and short sleeves. Contrast embroidery on the front. Button-up front.,Men,SHIRTS
+Men:SHIRTS:288,STRIPED COTTON - LINEN SHIRT,Regular-fit shirt made of a cotton and linen blend. Spread collar and short sleeves. Button-up front.,Men,SHIRTS
+Men:SHIRTS:294,MESH TEXTURED SHIRT,Relaxed fit bowling shirt made of an open-knit fabric. Short sleeves. Contrast prints all over the garment. Button-up front.,Men,SHIRTS
+Men:SHIRTS:297,TIE-DYE PRINT SHIRT,Relaxed-fit shirt made of textured fabric. Camp collar and short sleeves. Button-up front.,Men,SHIRTS
+Men:SHIRTS:299,MESH TEXTURED SHIRT,Relaxed fit shirt made of a mesh textured fabric. Camp collar and short sleeves. Button-up front.,Men,SHIRTS
+Men:SHIRTS:301,COTTON - LINEN SHIRT,Relaxed-fit shirt made of a linen blend. Button-down collar. Long sleeves with buttoned cuffs. Chest patch pocket. Button-up front.,Men,SHIRTS
+Men:SHIRTS:312,VERTICAL TEXTURED SHIRT,"Regular fit shirt with a camp collar, short sleeves and a button-up front.",Men,SHIRTS
+Men:SHIRTS:314,ABSTRACT PRINT KNIT SHIRT,Knit shirt with a camp collar and short sleeves. Button-up front.,Men,SHIRTS
+Men:SHIRTS:321,CHECK-TEXTURED WEAVE SHIRT,Relaxed-fit shirt made of a stretchy cotton blend. Spread collar and short sleeves. Button-up front.,Men,SHIRTS
+Men:SHIRTS:326,GEOMETRIC PRINT SHIRT,Shirt made of a viscose and cotton blend fabric. Camp collar and short sleeves. Button-up front.,Men,SHIRTS
+Men:SHIRTS:327,EMBROIDERED FLORAL PRINT SHIRT,Relaxed fit shirt made of cotton. Spread collar and short sleeves. Cutwork embroidery all over the garment. Button-up front.,Men,SHIRTS
+Men:SHIRTS:331,CHECKED JACQUARD SHIRT,Shirt made of a viscose and linen blend. Camp collar and short sleeves. Side vents at the hem. Button-up front.,Men,SHIRTS
+Men:SHIRTS:333,SHIRT,Relaxed fit collared shirt featuring long sleeves with buttoned cuffs and a button-up front.,Men,SHIRTS
+Men:SHIRTS:334,EMBROIDERED JACQUARD SHIRT,Shirt made of a viscose blend. Camp collar and short sleeves. Button-up front.,Men,SHIRTS
+Men:SHIRTS:336,FLORAL PRINT TUNIC - LIMITED EDITION,"Loose-fitting tunic made of lightweight ramie fabric. Featuring a round neck with front opening, short sleeves and side vents at the hem.",Men,SHIRTS
+Men:SHIRTS:338,STRIPED JACQUARD SHIRT LIMITED EDITION,Relaxed fit shirt made of semi-sheer linen blend fabric. Collar with adjustable drawstring strap and front opening. Short sleeves. Chest patch pocket. Asymmetric hem with side vents.,Men,SHIRTS
+Men:SHIRTS:339,PAISLEY PRINT SHIRT - LIMITED EDITION,Cropped-length shirt made of ramie fabric. Featuring a camp collar and short turn-up sleeves. Chest patch pocket and a button-up front. Made of a viscose blend.,Men,SHIRTS
+Men:SHIRTS:340,PATCHWORK SHIRT - LIMITED EDITION,Relaxed fit shirt in ramie fabric. Camp collar and short sleeves. Asymmetric split hem. Button-up front.,Men,SHIRTS
+Men:SHIRTS:341,LIMITED EDITION FLORAL PRINT SHIRT,Cropped-length shirt made of cotton and linen blend fabric. Camp collar and short sleeves. Chest patch pocket. Split hem. Button-up front.,Men,SHIRTS
+Men:SHIRTS:342,CROSSOVER SHIRT - LIMITED EDITION,Relaxed-fit shirt made of ramie. Collar and long sleeves with buttoned cuffs. Tied fastening at the front.,Men,SHIRTS
+Men:SHIRTS:343,VISCOSE - LINEN TUNIC - LIMITED EDITION,Flowing tunic made of a compact viscose and linen blend. Lapel collar and long sleeves with buttoned cuffs. Side vents at the hem. Button-up front.,Men,SHIRTS
+Men:SHIRTS:344,RAMIE SHIRT - LIMITED EDITION,Sleeveless oversized shirt made of ramie. Lapel collar with front opening.,Men,SHIRTS
+Men:SHIRTS:348,COTTON - LINEN TEXTURED SHIRT,Relaxed fit collared shirt made of a cotton and linen blend fabric. Long sleeves with buttoned cuffs. Chest patch pocket. Button-up front.,Men,SHIRTS
+Men:SHIRTS:353,COTTON SHIRT WITH POCKET,Relaxed fit collared shirt made of cotton. Long sleeves with buttoned cuffs. Chest patch pocket. Split hem. Button-up front.,Men,SHIRTS
+Men:SHIRTS:355,STRIPED POPLIN SHIRT,Relaxed-fit shirt. Camp collar and long sleeves. Chest patch pocket. Contrast trims. Button-up front.,Men,SHIRTS
+Men:SHIRTS:356,STRIPED EMBROIDERED SHIRT,Collared relaxed fit shirt. Long sleeves with buttoned cuffs. Chest patch pocket with contrast embroidery detail. Button-up front.,Men,SHIRTS
+Men:SHIRTS:357,SHIRT WITH CONTRAST EMBROIDERY,Relaxed-fit shirt made of cotton. Collar and short sleeves. Chest patch pocket. Contrast embroidery on the front and back. Button-up front.,Men,SHIRTS
+Men:SHIRTS:358,TEXTURED SHIRT,Regular-fit shirt in textured fabric. Camp collar and short sleeves. Split hem. Button-up front.,Men,SHIRTS
+Men:SHIRTS:363,MERCERISED COMFORT SHIRT,Shirt made of a fabric with a mercerised finish. Spread collar and short sleeves. Button-up front.,Men,SHIRTS
+Men:SHIRTS:365,STRETCH SHIRT,"Slim-fit shirt made of highly stretchy, crease-resistant fabric. Lapel collar and short sleeves. Button-up front.",Men,SHIRTS
+Men:SHIRTS:367,100% LINEN SHIRT,Relaxed-fit shirt made of linen fabric. Collar and short sleeves. Chest patch pocket. Side vents at the hem. Button-up front.,Men,SHIRTS
+Men:SHIRTS:368,100% LINEN SHIRT,Relaxed fit shirt made of a linen. Camp collar and short sleeves. Patch pockets with flaps on the chest. Split hem. Button-up front.,Men,SHIRTS
+Men:SHIRTS:369,100% LINEN SHIRT,Shirt made of a linen fabric. Camp collar and short sleeves. Patch pockets with flaps on the chest. Button-up front.,Men,SHIRTS
+Men:SHIRTS:372,100% LINEN SHIRT,Relaxed fit shirt made of a linen. Camp collar and short sleeves. Patch pocket with a flap on the chest. Split hem. Button-up front.,Men,SHIRTS
+Men:SHIRTS:374,100% LINEN SHIRT,Relaxed fit collared shirt made of linen fabric. Long sleeves with buttoned cuffs. Patch pocket on the chest. Button-up front.,Men,SHIRTS
+Men:SHIRTS:377,BOXY FIT SHIRT,Boxy fit shirt. Spread collar and short sleeves. Chest patch pocket. Asymmetric hem with side vents. Button-up front hidden by a placket.,Men,SHIRTS
+Men:SHIRTS:383,STRIPED JACQUARD SHIRT,Regular-fit shirt made of cotton fabric. Camp collar and short sleeves. Chest patch pocket. Side vents at the hem. Button-up front.,Men,SHIRTS
+Men:SHIRTS:384,STRIPED SHIRT,Relaxed-fit shirt made of a cotton and lyocell blend. Camp collar and short sleeves. Hem with side vents. Button-up front.,Men,SHIRTS
+Men:SHIRTS:390,TOPSTITCHED DENIM SHIRT,Relaxed fit collared shirt made of cotton fabric. Long sleeves with buttoned cuffs. Chest patch pockets with flaps. Snap-button fastening on the front.,Men,SHIRTS
+Men:SHIRTS:392,DENIM SHIRT WITH CONTRAST TOPSTITCHING,Short sleeve relaxed fit shirt with a lapel collar. Chest patch pocket. Contrast topstitching all over the garment. Button-up front.,Men,SHIRTS
+Men:SHIRTS:397,STRIPED COTTON - LINEN SHIRT,Shirt made of cotton and linen blend fabric. Camp collar and short sleeves. Chest patch pocket. Split hem. Button-up front.,Men,SHIRTS
+Men:SHIRTS:403,FADED SHIRT WITH SEAMS,Relaxed fit faded-effect shirt made of cotton. Camp collar and short sleeves. Chest patch pocket. Button-up front.,Men,SHIRTS
+Men:SHIRTS:410,ELASTIC SHIRT WITH STRIPED PRINT,"Regular-fit shirt made of highly stretchy, crease-resistant fabric. Lapel collar and short sleeves. Button-up front.",Men,SHIRTS
+Men:SHIRTS:412,TEXTURED CROCHET SHIRT,Relaxed fit shirt made of openwork fabric. Camp collar and short sleeves. Chest patch pocket. Button-up front.,Men,SHIRTS
+Men:SHIRTS:416,POPLIN SHIRT,Boxy-fit shirt made of cotton poplin. Spread collar. Short sleeves. Button-up front.,Men,SHIRTS
+Men:SHIRTS:422,STRIPED VISCOSE SHIRT,Relaxed fit shirt made of viscose fabric. Lapel collar and short sleeves. Button-up front.,Men,SHIRTS
+Men:SHIRTS:424,COMFORT OVERSHIRT WITH POCKETS,"Relaxed fit overshirt made of stretchy fabric. Featuring a spread collar, short sleeves, chest patch pockets and front snap-button fastening.",Men,SHIRTS
+Men:SHIRTS:432,FADED TEXTURED COTTON SHIRT,Relaxed fit collared shirt made of a textured cotton fabric. Short sleeves. Chest patch pockets. Faded effect. Hem with side vents. Button-up front.,Men,SHIRTS
+Men:SHIRTS:434,SHIRT WITH CONTRASTING TOPSTITCHING,Relaxed fit bowling shirt with short sleeves. Contrast topstitching. Button-up front.,Men,SHIRTS
+Men:SHIRTS:436,MODAL BLEND SHIRT,Relaxed-fit shirt made of a modal blend. Spread collar and short sleeves. Button-up front.,Men,SHIRTS
+Men:SHIRTS:441,LINEN - COTTON BLEND SHIRT,"Relaxed fit shirt made of a cotton and linen blend. Featuring a camp collar, short sleeves, and contrast embroidery on the hem. Button-up front.",Men,SHIRTS
+Men:SHIRTS:442,POPLIN SHIRT WITH POCKET,Relaxed-fit shirt made of cotton poplin. Spread collar and short sleeves. Chest patch pocket. Button-up front.,Men,SHIRTS
+Men:SHIRTS:444,STRIPED SEERSUCKER SHIRT,"Regular fit shirt with a spread collar, short sleeves, side vents at the hem and a button-up front.",Men,SHIRTS
+Men:SHIRTS:449,STRIPED COTTON SHIRT,Relaxed fit collared shirt made of cotton. Long sleeves with buttoned cuffs. Chest patch pocket. Button-up front.,Men,SHIRTS
+Men:SHIRTS:450,COTTON SHIRT WITH POCKETS,Relaxed fit collared shirt made of cotton. Long sleeves with adjustable cuffs. Chest patch pockets. Front snap-button fastening hidden by a placket.,Men,SHIRTS
+Men:SHIRTS:451,COTTON POPLIN SHIRT,Regular fit collared shirt made of cotton poplin. Long sleeves with buttoned cuffs. Chest patch pocket. Button-up front.,Men,SHIRTS
+Men:SHIRTS:454,LYOCELL - COTTON SHIRT,"Regular-fit shirt made of a lyocell and cotton blend. Featuring a camp collar, short sleeves, chest patch pocket and front button fastening.",Men,SHIRTS
+Men:SHIRTS:458,LIMITED EDITION TECHNICAL SHIRT,Cropped collared shirt made of technical satin fabric. Long sleeves with buttoned cuffs. Patch pockets with flaps on the chest. Button-up front.,Men,SHIRTS
+Men:SHIRTS:459,WAXED DENIM OVERSHIRT - LIMITED EDITION,Relaxed fit overshirt made of faded denim with a slightly waxed finish. Lapel collar and long sleeves and buttoned cuffs. Button-up front.,Men,SHIRTS
+Men:SHIRTS:460,OVERSIZE FIT SHIRT - LIMITED EDITION,Oversize fit shirt made of cotton. Spread collar and long sleeves with buttoned cuffs. Pleat details on the back. Button-up front hidden by a placket.,Men,SHIRTS
+Men:SHIRTS:461,BOXY FIT SHIRT - LIMITED EDITION,Boxy fit shirt made of cotton. Spread collar and short sleeves. Side vents at the hem. Button-up front hidden by a placket.,Men,SHIRTS
+Men:SHIRTS:463,RIPSTOP OVERSHIRT - LIMITED EDITION,Regular fit overshirt made of textured ripstop fabric that is resistant to tearing. Lapel collar and long sleeves with buttoned cuffs. Button-up front.,Men,SHIRTS
+Men:SHIRTS:464,OVERSIZE FIT OVERSHIRT - LIMITED EDITION,Oversize fit overshirt. Spread collar and long sleeves with buttoned cuffs. Pleat details on the back. Button-up front hidden by a placket.,Men,SHIRTS
+Men:SHIRTS:465,RELAXED FIT SHIRT - LIMITED EDITION,Relaxed-fit collared shirt featuring long sleeves with buttoned cuffs. Chest patch pockets and a button-up front.,Men,SHIRTS
+Men:SHIRTS:472,STRIPED SHIRT,Regular fit shirt made of a cotton fabric. Spread collar and long sleeves with buttoned cuffs. Button-up front.Origins special collection.,Men,SHIRTS
+Men:SHIRTS:473,COTTON POPLIN SHIRT,Regular-fit shirt made of a lightweight cotton poplin fabric. Spread collar and long sleeves with buttoned cuffs. Button-up front.Origins special collection.,Men,SHIRTS
+Men:SHIRTS:475,CHAMBRAY SHIRT,Regular-fit spread collar shirt made of cotton. Long sleeves with buttoned cuffs. Chest patch pocket. Faded effect. Button-up front.Origins special collection.,Men,SHIRTS
+Men:SHIRTS:477,CREASED-EFFECT SHIRT,Relaxed fit shirt made of cotton fabric. Camp collar and short sleeves. Chest patch pocket. Button-up front.,Men,SHIRTS
+Men:SHIRTS:482,CREASED-EFFECT SHIRT,Relaxed fit shirt made of cotton fabric. Stand collar. Long sleeves. Button-up front.,Men,SHIRTS
